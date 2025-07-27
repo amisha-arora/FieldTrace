@@ -117,5 +117,4 @@ A structured list of development tasks for building the offline-first dynamic fo
 
 ---
 
-> You can assign priorities (`P0`, `P1`, `P2`) or labels like `easy`, `medium`, `hard`, `beginner-friendly`, etc., on GitHub to better manage contributions.
 
