@@ -117,4 +117,15 @@ A structured list of development tasks for building the offline-first dynamic fo
 
 ---
 
+## ✅ Task Categorization Criteria
+
+| Criteria                         | Small Task 🟢          | Medium Task 🟡               | Hard Task 🔴                         |
+|----------------------------------|-------------------------|------------------------------|--------------------------------------|
+| 💻 Code Complexity               | 1–3                     | 4–6                          | 7–10                                 |
+| ⏱ Estimated Time to Complete    | < 2 hours               | 2–5 hours                    | > 5–10+ hours                        |
+| 🧠 Required Knowledge Depth      | Beginner                | Intermediate                 | Advanced                             |
+| 🔁 Feature Integration           | Minimal                 | One feature module           | Multiple modules                     |
+| 📚 Documentation Needed          | No or minimal           | Yes                          | Yes + architecture notes             |
+
+
 
